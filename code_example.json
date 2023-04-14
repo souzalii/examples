@@ -27,6 +27,22 @@
     {
       "example": "<a href='https://www.uwa.edu.au/'><img src='https://www.uwa.edu.au/-/media/Project/UWA/UWA/Masterbrand/Core-Elements/logo-uwa-horz-full-blue.svg?iar=0&hash=DD7540AE8255B3B2FB28122656A21344' alt='UWA Logo'></a>",
       "code": "&lt;a href='https://www.uwa.edu.au/'&gt;&lt;img src='https://www.uwa.edu.au/-/media/Project/UWA/UWA/Masterbrand/Core-Elements/logo-uwa-horz-full-blue.svg?iar=0&hash=DD7540AE8255B3B2FB28122656A21344' alt='UWA Logo'&gt;&lt;/a&gt;"
+    },
+    {
+      "example": "<a href='https://www.uwa.edu.au/' target='_blank'><input type='button' class='button' value='Go to UWA'></a>",
+      "code": "&lt;a href='https://www.uwa.edu.au/' target='_blank'&gt;&lt;input type='button' class='button' value='Go to UWA'&gt;&lt;/a&gt;"
+    },
+    {
+      "example": "<a href='https://www.google.com' target='_blank'><input type='button' class='button' value='Go to Google'></a>",
+      "code": "&lt;a href='https://www.google.com' target='_blank'&gt;&lt;input type='button' class='button' value='Go to Google'&gt;&lt;/a&gt;"
+    },
+    {
+      "example": "<a href='https://souzalii.github.io/examples/code_example.json' target='_blank'>Open Json file</a>",
+      "code": "&lt;a href='https://souzalii.github.io/examples/code_example.json'&gt;Open Json file&lt;/a&gt;"
+    },
+    {
+      "example": "<a href='https://www.google.com.br' target='_blank'><i class="fa-solid fa-link"></i></a>",
+      "code": "&lt;a href='https://www.google.com.br' target='_blank'&gt;&lt;i class="fa-solid fa-link"&gt;&lt;/i&gt;&lt;/a&gt;"
     }
   ]
 }
