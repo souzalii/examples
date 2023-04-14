@@ -41,8 +41,8 @@
       "code": "&lt;a href='https://souzalii.github.io/examples/code_example.json'&gt;Open Json file&lt;/a&gt;"
     },
     {
-      "example": "<a href='https://www.google.com.br' target='_blank'><i class="fa-solid fa-link"></i></a>",
-      "code": "&lt;a href='https://www.google.com.br' target='_blank'&gt;&lt;i class="fa-solid fa-link"&gt;&lt;/i&gt;&lt;/a&gt;"
+      "example": "<a href='https://www.google.com.br' target='_blank'><i class='fa-solid fa-link'></i></a>",
+      "code": "&lt;a href='https://www.google.com.br' target='_blank'&gt;&lt;i class='fa-solid fa-link'&gt;&lt;/i&gt;&lt;/a&gt;"
     }
   ]
 }
