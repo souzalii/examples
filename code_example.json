@@ -2,31 +2,31 @@
   "codes": [
     {
       "example": "<a href='https://www.google.com'>Google</a>",
-      "code": "<a href='https://www.google.com'>Google</a>"
+      "code": "&lt;a href='https://www.google.com'&gt;Google&lt;/a&gt;"
     },
     {
       "example": "<a href='https://www.amazon.com.au'>Click here to go to Amazon website</a>",
-      "code": "<a href='https://www.amazon.com.au'>Click here to go to Amazon website</a>"
+      "code": "&lt;a href='https://www.amazon.com.au'&gt;Click here to go to Amazon website&lt;/a&gt;"
     },
     {
       "example": "Use this <a href='https://www.linkedin.com'>link</a> to visit LinkedIn",
-      "code": "Use this <a href='https://www.linkedin.com'>link</a> to visit LinkedIn"
+      "code": "Use this &lt;a href='https://www.linkedin.com'&gt;link</a> to visit LinkedIn"
     },
     {
       "example": "<a href='https://souzalii.github.io/examples/code_example.json'>Click here</a> to download the JSON file",
-      "code": "<a href='https://souzalii.github.io/examples/code_example.json'>Click here</a> to download the JSON file"
+      "code": "&lt;a href='https://souzalii.github.io/examples/code_example.json'&gt;Click here&lt;/a&gt; to download the JSON file"
     },
     {
       "example": "<a href='mailto:23247513@student.uwa.edu.au'>Send an email</a>",
-      "code": "<a href='mailto:23247513@student.uwa.edu.au'>Send an email</a>"
+      "code": "&lt;a href='mailto:23247513@student.uwa.edu.au'&gt;Send an email&lt;/a&gt;"
     },
     {
       "example": "<a href='https://www.google.com'><img src='https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif' alt='Google Logo'></a>",
-      "code": "<a href='https://www.google.com'><img src='https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif' alt='Google Logo'></a>"
+      "code": "&lt;a href='https://www.google.com'&gt;&lt;img src='https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif' alt='Google Logo'&gt;&lt;/a&gt;"
     },
     {
       "example": "<a href='https://www.uwa.edu.au/'><img src='https://www.uwa.edu.au/-/media/Project/UWA/UWA/Masterbrand/Core-Elements/logo-uwa-horz-full-blue.svg?iar=0&hash=DD7540AE8255B3B2FB28122656A21344' alt='UWA Logo'></a>",
-      "code": "<a href='https://www.uwa.edu.au/'><img src='https://www.uwa.edu.au/-/media/Project/UWA/UWA/Masterbrand/Core-Elements/logo-uwa-horz-full-blue.svg?iar=0&hash=DD7540AE8255B3B2FB28122656A21344' alt='UWA Logo'></a>"
+      "code": "&lt;a href='https://www.uwa.edu.au/'&gt;&lt;img src='https://www.uwa.edu.au/-/media/Project/UWA/UWA/Masterbrand/Core-Elements/logo-uwa-horz-full-blue.svg?iar=0&hash=DD7540AE8255B3B2FB28122656A21344' alt='UWA Logo'&gt;&lt;/a&gt;"
     }
   ]
 }
