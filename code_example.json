@@ -13,8 +13,8 @@
       "code": "Use this &lt;a href='https://www.linkedin.com'&gt;link</a> to visit LinkedIn"
     },
     {
-      "example": "<a href='https://souzalii.github.io/examples/code_example.json'>Click here</a> to download the JSON file",
-      "code": "&lt;a href='https://souzalii.github.io/examples/code_example.json'&gt;Click here&lt;/a&gt; to download the JSON file"
+      "example": "<a href='https://souzalii.github.io/examples/code_example.json'>Click here</a> to open the JSON file",
+      "code": "&lt;a href='https://souzalii.github.io/examples/code_example.json'&gt;Click here&lt;/a&gt; to open the JSON file"
     },
     {
       "example": "<a href='mailto:23247513@student.uwa.edu.au'>Send an email</a>",
