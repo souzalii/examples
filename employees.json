@@ -1,4 +1,14 @@
-'{ "employees" : [' +
-'{ "firstName":"John" , "lastName":"Doe" },' +
-'{ "firstName":"Anna" , "lastName":"Smith" },' +
-'{ "firstName":"Peter" , "lastName":"Jones" } ]}';
+{
+  "employees": [
+    {"firstName":"John","lastName":"Doe" },
+    {"firstName":"Anna","lastName":"Smith" },
+    {"firstName":"Peter","lastName":"Jones" },
+    {"firstName":"Michael","lastName":"Brown" },
+    {"firstName":"Sarah","lastName":"Johnson" },
+    {"firstName":"David","lastName":"Lee" },
+    {"firstName":"Jennifer","lastName":"Davis" },
+    {"firstName":"William","lastName":"Clark" },
+    {"firstName":"Elizabeth","lastName":"Wilson" },
+    {"firstName":"Matthew","lastName":"Taylor" }
+  ]
+}
